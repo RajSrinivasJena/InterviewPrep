@@ -21,3 +21,4 @@ int main(){
     int n; cin>>n;
     pzz(n);
 }
+//question in description
